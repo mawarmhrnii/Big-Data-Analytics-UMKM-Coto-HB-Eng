@@ -90,3 +90,7 @@ Analisis data penjualan UMKM Coto HBeng menunjukkan bahwa identifikasi menu favo
 ---
 
 ## References
+ 1. https://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares
+ 2. https://scikit-learn.org/stable/modules/ensemble.html#random-forests 
+ 3. https://rasbt.github.io/mlxtend/user_guide/frequent_patterns/apriori/
+ 4. https://matplotlib.org/stable/users/index.html
